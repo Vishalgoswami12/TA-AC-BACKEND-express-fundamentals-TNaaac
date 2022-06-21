@@ -24,4 +24,3 @@ app.get("/",(req,res)=>{
 app.listen(4000,()=>{
     console.log("server listening on 4k0 port")
 })
-nbh
