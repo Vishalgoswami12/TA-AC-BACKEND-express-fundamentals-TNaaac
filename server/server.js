@@ -22,5 +22,5 @@ app.get("/",(req,res)=>{
     res.send("Middelware")
 })
 app.listen(4000,()=>{
-    console.log("server listening on 4k port")
+    console.log("server listening on 4k0 port")
 })
